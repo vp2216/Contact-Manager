@@ -11,7 +11,7 @@ Login with the registred details
 
 ![image](https://user-images.githubusercontent.com/122369312/228449934-12bc3344-5efe-4248-a245-2ad14aeb1af9.png)
 
-You can see all your contacts in the homepage
+User can see all your contacts in the homepage
 
 ![image](https://user-images.githubusercontent.com/122369312/228450425-01eb0a60-beb4-4192-8ae0-127a5014dbc4.png)
 
